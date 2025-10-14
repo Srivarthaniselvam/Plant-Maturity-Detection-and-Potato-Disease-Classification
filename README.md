@@ -5,9 +5,13 @@ The Plant Maturity Detection project aims to help farmers optimize harvest timin
 
 # Key Features
 ✅ Automated plant maturity detection based on image inputs
+
 ✅ Preprocessing techniques for noise reduction and feature extraction
+
 ✅ Machine Learning model training for classification
+
 ✅ User-friendly interface for farmers and researchers
+
 ✅ Performance evaluation and accuracy metrics
 
 # Tech Stack Used
