@@ -40,5 +40,7 @@ pip install tensorflow keras opencv-python scikit-learn matplotlib flask
 
 #  Future Enhancements
 🔹 Improve model accuracy with transfer learning
+
 🔹 Deploy as a mobile app for real-time usage
+
 🔹 Expand dataset with diverse plant species
