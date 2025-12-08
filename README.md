@@ -18,12 +18,12 @@ The Plant Maturity Detection project aims to help farmers optimize harvest timin
  - Programming Language: Python
  - Machine Learning Models: CNN, ResNet, MobileNet
  - Frameworks/Libraries: TensorFlow, Keras, OpenCV, Scikit-learn
- - Dataset: Collected from agricultural sources (or mention if you used an open-source dataset)
- - Deployment: Flask/Django (if applicable)
+ - Dataset: Collected from agricultural sources 
+ - Deployment: Flask/Django 
 
 # Installation & Setup
 Prerequisites
-Make sure you have Python installed (preferably Python 3.8+).
+Make sure you have Python installed.
 Install the required dependencies:
 pip install tensorflow keras opencv-python scikit-learn matplotlib flask
 
